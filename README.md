@@ -39,7 +39,7 @@ Este é um aplicativo de autenticação simples feito com **React Native** usand
 
 **Campos Obrigatórios** | **Usuário Não Encontrado** | **Senha Criptografada**
 :--:|:--:|:--:
-<img src="assets/screens/testeCamposObrigatorios.png" width="200"/> | <img src="assets/screens/testeUsuarioNaoEncontrado.png" width="200"/> | <img src="assets/screens/senhaCriptografada.png" width="200"/> 
+<img src="pet-care/assets/screens/testeCamposObrigatorios.png" width="200"/> | <img src="pet-care/assets/screens/testeUsuarioNaoEncontrado.png" width="200"/> | <img src="pet-care/assets/screens/senhaCriptografada.png" width="200"/> 
 ---
 
 ## 🛠 Instalação
