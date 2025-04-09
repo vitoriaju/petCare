@@ -23,9 +23,9 @@ Este é um aplicativo de autenticação simples feito com **React Native** usand
 
 ## 📸 Capturas de Tela
 
-**Login** | **Registro** | **Recuperar Senha**
+**Android** | **IOS** | **WEB** | **Usuário Logado***
 :--:|:--:|:--:
-<img src="assets/screens/login.png" width="200"/> | <img src="assets/screens/register.png" width="200"/> | <img src="assets/screens/forgot.png" width="200"/>
+<img src="assets/screens/android.png" width="200"/> | <img src="assets/screens/ios.png" width="200"/> | <img src="assets/screens/WEb.png" width="200"/> | <img src="assets/screens/testeUsuarioLogado.png" width="200"/>
 
 ---
 
