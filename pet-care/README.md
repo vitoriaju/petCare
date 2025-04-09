@@ -31,6 +31,13 @@ Este é um aplicativo de autenticação simples feito com **React Native** usand
 :--:|:--:|:--:|:--:
 <img src="assets/screens/testeDDDInvalido.png" width="200"/> | <img src="assets/screens/testeSenhaRedefinidaSucesso.png" width="200"/> | <img src="assets/screens/testeEmailSenhaIncorreta.png" width="200"/> | <img src="assets/screens/testeRedefinirSenhaTelefoneIncorreto.png" width="200"/>
 
+**Registro com Sucesso** | **Senhas não Coincidem** | **Senha Fora do Padrão** | **Email fora do Padrão***
+:--:|:--:|:--:|:--:
+<img src="assets/screens/registroSucesso.png" width="200"/> | <img src="assets/screens/testeSenhasNaoCoincidem.png" width="200"/> | <img src="assets/screens/testeSenhaForaPadrao.png" width="200"/> | <img src="assets/screens/testeEmailForaPadrao.png" width="200"/>
+
+**Campos Obrigatórios** | **Usuário Não Encontrado** | **Senha Criptografada**
+:--:|:--:|:--:
+<img src="assets/screens/testeCamposObrigatorios.png" width="200"/> | <img src="assets/screens/testeUsuarioNaoEncontrado.png" width="200"/> | <img src="assets/screens/senhaCriptografada.png" width="200"/> 
 ---
 
 ## 🛠 Instalação
