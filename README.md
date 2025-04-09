@@ -53,3 +53,17 @@ Este é um aplicativo de autenticação simples feito com **React Native** usand
 ### 2. Instale as dependências
 ```bash
 npm install
+```
+
+---
+
+## 🚀 Integrantes do Projeto
+
+- Júlia Vitória
+- Natália Beatriz Malta Bernini
+
+Centro Unversitário Presidente Antônio Carlos - Barbacena
+Disciplina: Programação Para Dispositivos Móveis
+Orientador: Rodrigo Fernandes dos Santos
+---
+
