@@ -9,6 +9,8 @@ Este é um aplicativo de autenticação simples feito com **React Native** usand
 - Criptografia de senhas com **SHA-256** via `crypto-js`.
 - Validações de entrada (e-mail, senha forte, confirmação de senha e DDD brasileiro).
 
+- Link do Projeto no Expo Go: [projeto](https://snack.expo.dev/@ailatan/pet-care)
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
