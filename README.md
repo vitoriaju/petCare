@@ -63,7 +63,9 @@ npm install
 - Natália Beatriz Malta Bernini
 
 Centro Unversitário Presidente Antônio Carlos - Barbacena
+
 Disciplina: Programação Para Dispositivos Móveis
+
 Orientador: Rodrigo Fernandes dos Santos
 
 ---
