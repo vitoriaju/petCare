@@ -1,11 +1,42 @@
-# Sample Snack app
+# 📱 App de Autenticação com React Native (Expo)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este é um aplicativo de autenticação simples feito com **React Native** usando **Expo**, que permite:
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+- Registro de usuários com **e-mail**, **telefone** (com máscara brasileira) e **senha**.
+- Login com e-mail e senha.
+- Recuperação de senha com base no e-mail e telefone.
+- Armazenamento local usando **AsyncStorage**.
+- Criptografia de senhas com **SHA-256** via `crypto-js`.
+- Validações de entrada (e-mail, senha forte, confirmação de senha e DDD brasileiro).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+---
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 🚀 Tecnologias Utilizadas
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [React Navigation](https://reactnavigation.org/)
+- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/)
+- [crypto-js](https://www.npmjs.com/package/crypto-js)
+
+---
+
+## 📸 Capturas de Tela
+
+**Login** | **Registro** | **Recuperar Senha**
+:--:|:--:|:--:
+<img src="assets/screens/login.png" width="200"/> | <img src="assets/screens/register.png" width="200"/> | <img src="assets/screens/forgot.png" width="200"/>
+
+---
+
+## 🛠 Instalação
+
+### 1. Pré-requisitos
+- Node.js
+- Expo CLI (`npm install -g expo-cli`)
+- Dispositivo físico ou emulador Android/iOS
+- Editor de código (VS Code recomendado)
+
+### 2. Instale as dependências
+```bash
+npm install
