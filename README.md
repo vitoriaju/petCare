@@ -25,9 +25,9 @@ Este é um aplicativo de autenticação simples feito com **React Native** usand
 
 ## 📸 Capturas de Tela
 
-**Android** | **IOS** | **WEB** | **Usuário Logado***
+**Perfil Usuario** | **IOS** | **WEB** | **Usuário Logado***
 :--:|:--:|:--:|:--:
-<img src="pet-care/assets/screens/android.png" width="200"/> | <img src="pet-care/assets/screens/ios.png" width="200"/> | <img src="pet-care/assets/screens/WEb.png" width="200"/> | <img src="pet-care/assets/screens/testeUsuarioLogado.png" width="200"/>
+                 (https://github.com/user-attachments/assets/b1bf9bfd-2b65-417a-8623-3d6d855719c7)  | <img src="pet-care/assets/screens/ios.png" width="200"/> | <img src="pet-care/assets/screens/WEb.png" width="200"/> | <img src="pet-care/assets/screens/testeUsuarioLogado.png" width="200"/>
 
 **DDD inválido** | **Recuperar Senha** | **Email ou Senha Incorretos** | **Telefone Incorreto***
 :--:|:--:|:--:|:--:
